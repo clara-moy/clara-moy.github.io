@@ -10,4 +10,4 @@ Vous pourrez trouver plus d'informations sur la manière d'utiliser le site [ici
 
 Si vous voulez contribuer au site, vous pouvez aller voir le fichier `CONTRIBUTING.md` disponible sur [le GitHub du site](https://github.com/tzsda/projet-intranet-MPCI/tree/main).
 
-Si vous cherchez plus d'informations sur les outils à maîtriser afin de pouvoir contribuer au site, c'est [ici]()
+Si vous cherchez plus d'informations sur les outils à maîtriser afin de pouvoir contribuer au site, c'est [ici](conseils.md)
